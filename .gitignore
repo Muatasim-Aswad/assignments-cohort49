@@ -122,3 +122,20 @@ dist
 .recent.json
 .disclaimer
 @assignment*
+test-runner/
+
+# Ignore all but necessary
+*
+!1-JavaScript/
+!2-Browsers/
+!3-UsingAPIs/
+!.gitignore
+!cspell.json
+
+*test-runner*
+*package.json*
+*package-lock.json*
+*cspell.json*
+*todo.txt*
+*settings.json*
+*.gitignore*
