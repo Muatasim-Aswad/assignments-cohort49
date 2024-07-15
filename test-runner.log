@@ -239,3 +239,18 @@ Ran all test suites matching /ex3-lemonAllergy.test.js/i.
 2024-07-13 09:36:08 info: --------------------------------------
 2024-07-13 09:36:11 info: All unit tests passed.
 2024-07-13 09:36:16 info: All steps were completed successfully
+2024-07-15 09:52:04 info: -------------------------------------------------
+2024-07-15 09:52:04 info: >>> Running Unit Test `ex2-mondaysWorth.test` <<<
+2024-07-15 09:52:04 info: -------------------------------------------------
+2024-07-15 09:52:06 info: All unit tests passed.
+2024-07-15 09:52:12 info: All steps were completed successfully
+2024-07-15 09:56:27 info: -------------------------------------------------
+2024-07-15 09:56:27 info: >>> Running Unit Test `ex2-mondaysWorth.test` <<<
+2024-07-15 09:56:27 info: -------------------------------------------------
+2024-07-15 09:56:29 info: All unit tests passed.
+2024-07-15 09:56:34 info: All steps were completed successfully
+2024-07-15 10:09:51 info: -------------------------------------------------
+2024-07-15 10:09:51 info: >>> Running Unit Test `ex2-mondaysWorth.test` <<<
+2024-07-15 10:09:51 info: -------------------------------------------------
+2024-07-15 10:09:53 info: All unit tests passed.
+2024-07-15 10:09:58 info: All steps were completed successfully
